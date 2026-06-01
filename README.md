@@ -20,3 +20,5 @@ https://nogggnoggg.github.io/2026_AI_Stack_COMPUTEX/
 - L8 垂直產業／實體世界應用層
 
 單一頁面入口：`index.html`
+
+Deployment is handled by GitHub Actions Pages workflow.
